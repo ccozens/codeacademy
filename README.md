@@ -1,7 +1,9 @@
 # codeacademy
 CodeAcademy capstone projects
 
-** Income_proj**: Random Forest Classifier project; formatted data, selected features, trained and optimised Random Forest Classifier
+**03p_EmailSimilarity** : Naive Bayes Classifier; dataset download, feature selection, model training, loop to compare 20 random pairs of data
+
+**Income_proj**: Random Forest Classifier project; formatted data, selected features, trained and optimised Random Forest Classifier
 
 **Find_the_Flag_project**:  Decision Tree Classifier project; defined functions to train multiple max_depth parameters and graph output and to train multiple random forest classifiers
 
