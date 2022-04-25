@@ -1,6 +1,8 @@
 # codeacademy
 CodeAcademy capstone projects
 
+**02_Handwriting_Recognition_K-Means.ipynb** : training K-Means classifier using scikit learn's digit dataset
+
 **viral_tweets** and **tweet_location** are off-platform supervised learning projects, using Naive Bayesian and K-Nearest Neighbour classifiers, respectively
 
 **03p_EmailSimilarity** : Naive Bayes Classifier; dataset download, feature selection, model training, loop to compare 20 random pairs of data
