@@ -1,6 +1,8 @@
 # codeacademy
 CodeAcademy capstone projects
 
+**masculinity_project**: KMeans clustering using survey data from FiveThirtyEight.com
+
 **02_Handwriting_Recognition_K-Means.ipynb** : training K-Means classifier using scikit learn's digit dataset
 
 **viral_tweets** and **tweet_location** are off-platform supervised learning projects, using Naive Bayesian and K-Nearest Neighbour classifiers, respectively
