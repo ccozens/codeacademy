@@ -1,6 +1,8 @@
 # codeacademy
 CodeAcademy capstone projects
 
+Looking back, I'm slightly embarrassed by the coding and layout of these - I'm going to leave them up as I have done them, and they do show the data analysis skills. However, note to self to rework and clean up code in future. 
+
 **masculinity_project**: KMeans clustering using survey data from FiveThirtyEight.com
 
 **02_Handwriting_Recognition_K-Means.ipynb** : training K-Means classifier using scikit learn's digit dataset
